@@ -21,9 +21,7 @@ Now you have to replicate the circuit below:<br/>
 
 The circuit can be powered via Arduino’s USB port or applying 12V in Arduino’s Vin pin.
 
-The blinking code follows below:
-
-There are three major steps you must understand before uploading the code inside Arduino’s flash memory.
+There are three major steps you must understand before uploading the [code](Arduino_IDE.ino) inside Arduino’s flash memory.
 
 First, you have to select which Arduino board you’re using by clicking **Tools > Board**. A list of all available boards will appear so you can select the one you’re using. Another menu will appear if the board you selected has more than one processor to choose. Just change it accordingly by clicking in: **Tools > Processor**.
 
@@ -31,4 +29,4 @@ Second, you must select the serial port. Again, click **Tools > Port** and selec
 
 Finally, click **Tools > Programmer** and select **Arduino as ISP**.
 
-To upload the program, copy and paste this code into the IDE. Then, click the “Upload” button and if everything is OK you should see the RX and TX LEDs on the board flashing. If the upload is successful, the message “Done uploading.” will appear in the status bar and you should see the LED blinking. Yeah! You’re good 🙂
+To upload the program, copy and paste this [code](Arduino_IDE.ino) into the IDE. Then, click the “Upload” button and if everything is OK you should see the RX and TX LEDs on the board flashing. If the upload is successful, the message “Done uploading.” will appear in the status bar and you should see the LED blinking. Yeah! You’re good 🙂
