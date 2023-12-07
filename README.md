@@ -4,8 +4,8 @@ The purpose of this first tutorial is to explain the very basics of the Arduino 
 
 In my opinion, what gives this tool its power it’s not only the appearance or the lack of complex features (which makes it easier to use) but all the examples, projects and libraries which are freely distributed by the open-source community. Even though, the Arduino project thrives. In fact, it thrives because it is open-source, like Linux or the Raspberry Pi.
 
-This is how the IDE looks:\
-\
+This is how the IDE looks:<br/>
+<br/>
 ![alt text](resources/ArduinoIDE.jpg?raw=true)
 
 So you can easily understand how the IDE works and to prove we (the open-source community) are right, let’s start with a simple LED blink schematic. For this tutorial you need:
