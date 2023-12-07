@@ -15,7 +15,8 @@ So you can easily understand how the IDE works and to prove we (the open-source 
 - 1x 10kOhm resistors
 - Breadboard and wires
 
-Now you have to replicate the circuit below:\
+Now you have to replicate the circuit below:<br/>
+<br/>
 ![alt text](resources/Arduino-IDE_bb.png?raw=true)
 
 The circuit can be powered via Arduino’s USB port or applying 12V in Arduino’s Vin pin.
