@@ -10,9 +10,9 @@ This is the visual representation of the Integrated Development Environment (IDE
 
 So you can easily understand how the IDE works and to substantiate our position (within the open-source community), let's commence with a straightforward LED blink schematic. For this tutorial, you need:
 
-- 1x Arduino Nano 3.0
-- 1x LED
-- 1x 10kOhm resistors
+- Arduino Nano 3.0
+- LED
+- 10kOhm resistor
 - Breadboard and wires
 
 Now you have to replicate the circuit below:
@@ -23,7 +23,7 @@ The circuit can be powered via the Arduino's USB port or by applying 12V to the 
 
 There are three major steps you must understand before uploading the [code](Arduino_IDE.ino) into Arduino's flash memory.
 
-First, you have to select which Arduino board you're using by clicking **Tools > Board**. A list of all available boards will appear so you can select the one you're using. Another menu will appear if the board you selected has more than one processor to choose from. Just change it accordingly by clicking on: **Tools > Processor**.
+First, you have to select which Arduino board you're using by clicking **Tools > Board**. A list of all available boards will appear so you can select the one you're using. Another menu will appear if the board you selected has more than one processor to choose from. Just change it accordingly by clicking on **Tools > Processor**.
 
 Second, you must select the serial port. Again, click **Tools > Port** and select the COM port where you've connected the Arduino. If you're not sure which port is the right one, disconnect your Arduino board and re-open the menu. The entry that disappears should be the Arduino board. Reconnect the board and select that serial port.
 
